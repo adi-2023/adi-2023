@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=9C38FF&lines=Hi%2C%F0%9F%91%8Bthere+AdithyaVenkatKumarbw+here!;Nice%2C%F0%9F%A4%97to+have+your+acquaintance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=9C38FF&lines=Hi%2C%F0%9F%91%8Bthere+AdithyaVenkatKumarbw+here!)](https://git.io/typing-svg)
 
 ## \_\_init__
 
