@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=9C38FF&lines=Hi%2C%F0%9F%91%8Bthere+Sarath+here!;Nice%2C%F0%9F%A4%97to+have+your+acquaintance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=9C38FF&lines=Hi%2C%F0%9F%91%8Bthere+Adithya Venkat Kumar.bw+here!;Nice%2C%F0%9F%A4%97to+have+your+acquaintance)](https://git.io/typing-svg)
 
 ## \_\_init__
 
-A passionate young developer located in India 🇮🇳. I'm pursuing B.Tech in computer science from VIT-AP. A wanna be jack of all trades 🃏 in the flesh. 
+A passionate young Front-End developer located in India 🇮🇳. I'm pursuing M.Tech Integrated C.S.E in Collabiration Virtusa from VIT-AP. 
 
 - 🔭 I’m currently banging my head! 😅
 - 🌱 I’m currently learning ... I know nothing so, everything! 😲
