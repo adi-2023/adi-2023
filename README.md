@@ -21,10 +21,10 @@ As a dedicated front-end developer, I am passionate about crafting engaging and 
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: JavaScript, TypeScript
-- **Web Development**: HTML, CSS, React, Vue.js
+- **Programming Languages**: JavaScript, Python
+- **Web Development**: HTML, CSS
 - **Database Management**: MongoDB (for full-stack context)
-- **Tools**: Git, VS Code, Webpack, NPM
+- **Tools**: Git, VS Code
 
 ## 📫 How to Reach Me
 
