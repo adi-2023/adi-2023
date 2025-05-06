@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adithya B.W</h1>
+<h1 align="center">👋 Hi, I'm Adithya.BW</h1>
 <h3 align="center">🚀 Front-End Developer | 💻 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
 <p align="center">
