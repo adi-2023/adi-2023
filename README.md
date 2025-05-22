@@ -16,12 +16,21 @@
 ## 🧑💻 About Me
 
 <p>
-A passionate front-end developer with a focus on creating responsive and accessible web experiences. Currently honing my skills in modern web development while exploring full-stack capabilities. Committed to writing clean, maintainable code and constantly expanding my knowledge through personal projects and tech communities.
+I’m Adithya Venkata Kumar Ravuri — a passionate full-stack developer, IoT innovator, and AI/ML enthusiast pursuing M.Tech in Computer Science and Engineering. I blend technical depth with creative problem-solving to build scalable, secure, and smart applications, especially in the domains of Web, IoT, and AI.
 </p>
 
-- 🔭 Working on: Building interactive web applications with JavaScript  
-- 🌱 Learning: Advanced CSS techniques and Python fundamentals  
-- 👯 Looking to collaborate on: Open source projects and hackathons  
+- 🔭 Currently working on:  
+  - 🚗 Smart Light Control System using iFogSim  
+  - 🤖 Speech Emotion Recognition using Deep Learning  
+  - 📊 Medical Report Checker with AI-powered analysis  
+  - 📱 MindLink – an AI-based contact organizer app  
+- 📚 Learning:  
+  - Advanced Java (JDBC, Multithreading, Data Structures)  
+  - Cyber Security, Digital Forensics, and Network Architecture  
+- 💼 Certifications:  
+  - Oracle GenAI Certified  
+  - Cisco Networking & Cybersecurity  
+- 🧠 Interests: Cloud Security, AI, Patent Filing, and Clean UI/UX  
 - ⚡ Fun fact: I enjoy reverse-engineering beautiful website designs  
 
 ---
@@ -33,15 +42,31 @@ A passionate front-end developer with a focus on creating responsive and accessi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### ⚙️ Backend & APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 📡 IoT & Simulation Tools
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge&logo=proteus&logoColor=white)
+![iFogSim](https://img.shields.io/badge/iFogSim-Modeling-green?style=for-the-badge)
+
 ### 🧰 Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github.com/adithyabw/adithyabw/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
