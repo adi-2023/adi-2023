@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm Adithya.BW</h1>
-<h3 align="center">🚀 Front-End Developer | 💻 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<p align="center">
+  <img src="https://github.com/adi-2023/adi-2023/blob/b3f1aa1e5b5b8e6b20d395bbb41aef7cad5c0ab2/Banner.jpg?raw=true" alt="Banner">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/adithya-venkat-kumar-bw-520062231" target="_blank">
@@ -18,10 +19,10 @@
 A passionate front-end developer with a focus on creating responsive and accessible web experiences. Currently honing my skills in modern web development while exploring full-stack capabilities. Committed to writing clean, maintainable code and constantly expanding my knowledge through personal projects and tech communities.
 </p>
 
-- 🔭 Working on: Building interactive web applications with JavaScript
-- 🌱 Learning: Advanced CSS techniques and Python fundamentals
-- 👯 Looking to collaborate on: Open source projects and hackathons
-- ⚡ Fun fact: I enjoy reverse-engineering beautiful website designs
+- 🔭 Working on: Building interactive web applications with JavaScript  
+- 🌱 Learning: Advanced CSS techniques and Python fundamentals  
+- 👯 Looking to collaborate on: Open source projects and hackathons  
+- ⚡ Fun fact: I enjoy reverse-engineering beautiful website designs  
 
 ---
 
@@ -39,24 +40,6 @@ A passionate front-end developer with a focus on creating responsive and accessi
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyabw&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyabw&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=adithyabw&label=Profile+Views&color=dc143c&style=flat" alt="visitor counter" />
-</p>
 
 ---
 
